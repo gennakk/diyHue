@@ -1,4 +1,11 @@
 # Project Licenses
+
+Me CAGO EN MI VIDA NO ENTIENDO NADA DE LO QUE DICE
+
+
+
+
+
  - All code under the Lights and Sensors directory is under the GPLv3 being derived works. A copy of the GPLv3 is included in this file.
  - The code contained in the BridgeEmulator directory is under an Apache 2.0. A copy of the Apache 2.0 license is included in this file.
  - Images, documentation and PCB designs are under a CC BY-SA 4.0 license. See: https://creativecommons.org/licenses/by-sa/4.0/
